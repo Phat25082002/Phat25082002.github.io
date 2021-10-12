@@ -1,0 +1,64 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+
+td {
+  background-color: #3498db;
+  border: 1px solid black;
+  padding: 15px;
+}
+
+#thongtin{
+  text-align: right;
+}
+
+#t1 , #t2, #t3, #t4, #t5, #t6, #t7, #t8, #t9, #t10, #t11, #t12, #t13, #t14, #t15, #t16{
+  background-color:white;
+  width: 400px;
+  border: 2px solid black;
+  padding: 0px 10px;
+  margin: 10px;
+}
+
+style{
+  position: absolute;
+  top 0px;
+}
+
+#phimbo{
+  color:blue;
+}
+
+#phimle{
+  color: blue;
+}
+
+#anime{
+  color: blue;
+}
+
+header{
+  background-color: #9b59b6;
+}
+
+section{
+  background-color: #bdc3c7;
+}
+
+footer{
+  background-color: #7f8c8d;
+}
+
+form{
+  color: white;
+}
+
+table{
+  background-color: white;
+}
+
+#banquyen{
+  text-align: center;
+}
+
